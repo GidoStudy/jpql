@@ -4,20 +4,21 @@ import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 
+import java.util.List;
+
 @Entity
+@Table(name="ORDERS")
 @Getter @Setter
-public class Member {
-    
+public class Order {
+
     @Id
     @GeneratedValue
     private Long id;
-    private String username;
-    private int age;
-
-    @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "TEAM_ID")
-    private Team team;
-
+    private int orderAmount;
     @Embedded
     private Address address;
+
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "product_id")
+    private Product product;
 }

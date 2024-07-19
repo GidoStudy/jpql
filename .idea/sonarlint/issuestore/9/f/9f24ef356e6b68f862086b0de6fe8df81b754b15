@@ -1,34 +1,34 @@
 
-]	java:S125$"<This block of commented-out lines of code should be removed.( •Çƒùÿÿÿÿ8×‘öİù1
-]	java:S1255"<This block of commented-out lines of code should be removed.(âèÂúÿÿÿÿ8Ø‘öİù1
-]	java:S125A"<This block of commented-out lines of code should be removed.(‘¦ä’ÿÿÿÿÿ8Ø‘öİù1
-]	java:S125R"<This block of commented-out lines of code should be removed.(ÊÙßÓÿÿÿÿÿ8Ù‘öİù1
-]	java:S125j"<This block of commented-out lines of code should be removed.(âèÂúÿÿÿÿ8Ù‘öİù1
-]	java:S125o"<This block of commented-out lines of code should be removed.(âèÂúÿÿÿÿ8Ù‘öİù1
-]	java:S125w"<This block of commented-out lines of code should be removed.(è£±²şÿÿÿÿ8Ù‘öİù1
-^	java:S125‡"<This block of commented-out lines of code should be removed.(âèÂúÿÿÿÿ8Ù‘öİù1
-^	java:S125³"<This block of commented-out lines of code should be removed.(‘Áçıÿÿÿÿ8İ‘öİù1
-M	java:S106¸"+Replace this use of System.out by a logger.(˜øÆÅıÿÿÿÿ8Ş‘öİù1
-H	java:S106¹"+Replace this use of System.out by a logger.(…ÉŞí8ß‘öİù1
-H	java:S106Â"+Replace this use of System.out by a logger.(ù²8à‘öİù1
-M	java:S106Ä"+Replace this use of System.out by a logger.(¿’ßƒùÿÿÿÿ8á‘öİù1
-H	java:S106Ğ"+Replace this use of System.out by a logger.(ØÜ£š8õĞ÷İù1
-M	java:S106×"+Replace this use of System.out by a logger.(¶ÕÒâüÿÿÿÿ8Ìşÿİù1
-M	java:S106Ù"+Replace this use of System.out by a logger.(¿’ßƒùÿÿÿÿ8Ìşÿİù1
+]	java:S125$"<This block of commented-out lines of code should be removed.( •Çƒùÿÿÿÿ8Û¹Íùù1
+]	java:S1255"<This block of commented-out lines of code should be removed.(âèÂúÿÿÿÿ8Ü¹Íùù1
+]	java:S125A"<This block of commented-out lines of code should be removed.(‘¦ä’ÿÿÿÿÿ8Ü¹Íùù1
+]	java:S125R"<This block of commented-out lines of code should be removed.(ÊÙßÓÿÿÿÿÿ8Ü¹Íùù1
+]	java:S125j"<This block of commented-out lines of code should be removed.(âèÂúÿÿÿÿ8Ü¹Íùù1
+]	java:S125o"<This block of commented-out lines of code should be removed.(âèÂúÿÿÿÿ8Ü¹Íùù1
+]	java:S125w"<This block of commented-out lines of code should be removed.(è£±²şÿÿÿÿ8İ¹Íùù1
+^	java:S125‡"<This block of commented-out lines of code should be removed.(âèÂúÿÿÿÿ8İ¹Íùù1
+^	java:S125³"<This block of commented-out lines of code should be removed.(‘Áçıÿÿÿÿ8ß¹Íùù1
+^	java:S125â"<This block of commented-out lines of code should be removed.(âèÂúÿÿÿÿ8ß¹Íùù1
+^	java:S125ğ"<This block of commented-out lines of code should be removed.(®ïñÿÿÿÿÿ8ß¹Íùù1
+M	java:S106ù"+Replace this use of System.out by a logger.(£ú·Øøÿÿÿÿ8à¹Íùù1
+M	java:S106ş"+Replace this use of System.out by a logger.(›‹İ²ÿÿÿÿÿ8ö˜Ğùù1
+M	java:S106ÿ"+Replace this use of System.out by a logger.(¶Ã·øÿÿÿÿ8äĞùù1
 k
-java:S1128"IRemove this unused import 'jakarta.persistence.criteria.CriteriaBuilder'.(À¼ºñşÿÿÿÿ8‰Ì€Şù1
+java:S1128"IRemove this unused import 'jakarta.persistence.criteria.CriteriaBuilder'.(À¼ºñşÿÿÿÿ8á¹Íùù1
 i
-java:S1128"GRemove this unused import 'jakarta.persistence.criteria.CriteriaQuery'.(ÆÑ‡Œùÿÿÿÿ8‰Ì€Şù1
+java:S1128"GRemove this unused import 'jakarta.persistence.criteria.CriteriaQuery'.(ÆÑ‡Œùÿÿÿÿ8á¹Íùù1
 a
-java:S1128"?Remove this unused import 'jakarta.persistence.criteria.Order'.(Äï¶¹ıÿÿÿÿ8‰Ì€Şù1
+java:S1128"?Remove this unused import 'jakarta.persistence.criteria.Order'.(Äï¶¹ıÿÿÿÿ8á¹Íùù1
 [
-java:S1128">Remove this unused import 'jakarta.persistence.criteria.Root'.(¯¨¥º8‰Ì€Şù1
+java:S1128">Remove this unused import 'jakarta.persistence.criteria.Root'.(¯¨¥º8â¹Íùù1
 S
-java:S1128"6Remove this unused import 'lombok.extern.slf4j.Slf4j'.(ûúÄ®8‰Ì€Şù1
+java:S1128"6Remove this unused import 'lombok.extern.slf4j.Slf4j'.(ûúÄ®8â¹Íùù1
 P
 java:S1128
-"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ŠÌ€Şù1
+"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8â¹Íùù1
 S
-java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8ŠÌ€Şù1
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8â¹Íùù1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8â¹Íùù1
 R
-java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8ŠÌ€Şù1
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8â¹Íùù1
